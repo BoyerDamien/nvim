@@ -1,0 +1,8 @@
+require("lsp/lua")
+require("lsp/bash")
+require("lsp/cpp")
+require("lsp/go")
+require("lsp/docker")
+require("lsp/json")
+require("lsp/python")
+require("lsp/web")

@@ -1,0 +1,12 @@
+
+require("plugins/nvim-tree")
+require("plugins/telescope")
+require("plugins/lspkind").init()
+require("plugins/autopairs")
+require("plugins/theme")
+require("plugins/treesitter")
+require("plugins/compe")
+require("plugins/terminal")
+require('nvim_comment').setup()
+require("plugins/dap")
+require("plugins/colorizer")
